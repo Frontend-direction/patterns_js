@@ -1,0 +1,14 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liskov_substitution.js",
+  "scripts": {
+    "dev": "npx tsc -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
